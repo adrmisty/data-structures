@@ -7,4 +7,4 @@ Author: _Adriana R. Flórez (adrirflorez@gmail.com)_
 
 
 
-Date: _Fall semester 24/25_
+Date: _Summer semester 24/25_
